@@ -1,4 +1,4 @@
-== README
+== README==
 
 # Open terminal and run command
 * bundle
